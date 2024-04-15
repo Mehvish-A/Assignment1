@@ -34,7 +34,7 @@
     <li>Java script</li>
     <h3>Contact</h3>
 
-    <ul>
+<ul>
         <li>mehvisharsalan07@gmail.com</li>
   
   </ul>
